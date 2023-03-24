@@ -1,6 +1,6 @@
 ## I have built a fast-loading and highly performant full-stack social medial platform.
  
-[Live Link](https://jatin-123-reels.netlify.app/login)
+[Live Link](https://insta-jatin-reels.netlify.app/login)
 
 Technology Used - React, Firebase 9, Tailwind, Javascript, HTML
 
